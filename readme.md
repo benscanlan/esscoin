@@ -10,7 +10,7 @@
 - swift app for easy transfers
 - fork of popular crypto repo for our own use
 
-## Anders edit where-ever This is you opportunity blow me later - M&M
+## Anders edit where-ever This is you opportunity blow me later - M&M. Try working on this code learning etc for half work days 4 hours a day with your brilliant mind.
   
 The goal is to create a social web app and server as one compiled binary.
 Amazon, google all started this way. It's kind of the best kept secret in the valley.
