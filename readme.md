@@ -1,6 +1,6 @@
 # esscoin crypto plus swift ui 
 
-Crypto for College Students.
+Crypto for College Students. The movie Social Network (2008) was a psychological operation to get people in early stage start ups to get paranoid about ownership over currently non existent revenue generating business. FYP
 
 # esscoin goal 
 - swift app for easy transfers
@@ -140,3 +140,5 @@ You can serve a binary for people to run in the browser using wasm. So sky is th
 
 # Copyright
 ©2021-2022 [esscoin.com](https://esscoin.com) All Rights Reserved
+
+
