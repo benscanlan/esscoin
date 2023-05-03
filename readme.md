@@ -1,6 +1,6 @@
 # esscoin crypto plus swift ui 
 
-esscoin is a business logic kernal.
+Crypto for College Students.
 
 # esscoin goal 
 - swift app for ewasy transfers
