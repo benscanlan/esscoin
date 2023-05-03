@@ -2,9 +2,10 @@
 
 esscoin is a business logic kernal.
 
-# esscoin goal
-- light-weight HTTP server written in C 
-- Application logic and custom database.
+# esscoin goal 
+- swift app for ewasy transfers
+- fork of popular crypto repo for our own use
+# anders edit below  
 The goal is to create a social web app and server as one compiled binary.
 Amazon, google all started this way. It's kind of the best kept secret in the valley.
 The big feasibility problem I’ve encountered is updates while running.
