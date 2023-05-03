@@ -3,7 +3,7 @@
 esscoin is a business logic kernal.
 
 # esscoin goal 
-- swift app for ewasy transfers
+- swift app for easy transfers
 - fork of popular crypto repo for our own use
 # anders edit below  
 The goal is to create a social web app and server as one compiled binary.
