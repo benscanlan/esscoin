@@ -1,4 +1,4 @@
-# esscoin is going to suck but build it anyway. 
+# esscoin crypto plus swift ui 
 
 esscoin is a business logic kernal.
 
