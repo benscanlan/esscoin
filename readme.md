@@ -9,7 +9,9 @@
 # esscoin goal 
 - swift app for easy transfers
 - fork of popular crypto repo for our own use
-# anders edit below  
+
+## Anders edit where-ever This is you opportunity blow me later - M&M
+  
 The goal is to create a social web app and server as one compiled binary.
 Amazon, google all started this way. It's kind of the best kept secret in the valley.
 The big feasibility problem I’ve encountered is updates while running.
