@@ -1,6 +1,6 @@
-# Crypto for College Students.
+# Crypto for College Students
 
-##esscoin crypto plus swift ui 
+## esscoin crypto plus swift ui 
 
 - Crypto for College Students. 
 
